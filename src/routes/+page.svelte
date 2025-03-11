@@ -43,7 +43,7 @@
             You do the math. How’s this place staying afloat? Easy—every time a member’s in need, they guilt-trip the congregation into donating more. But touch the church purse? Nah, they won’t dare. You can see why. It’s extortion, plain and simple.
         </p>
         <p class="mb-4">
-            Every Sunday, they’re told to give—“the collection for the saints,” they call it. Except it’s really for one saint: the “preacher.” What a scam. And this isn’t just that church—who knows how many others are pulling the same stunt? Oh, and get this: they’ve got a seminar coming up about an “elevated pulpit.” Hilarious.
+            Every Sunday, they’re told to give—“the collection for the saints,” they call it. Except it’s really for one saint: the “preacher.” What a scam. And this isn’t just that church—who knows how many others are pulling the same stunt? And some guys have a seminar coming up about an “elevated pulpit.” Hilarious.
         </p>
 
         <!-- Section: Back to Basics -->
