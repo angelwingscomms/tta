@@ -62,7 +62,7 @@
 
         <!-- Footer -->
         <footer class="mt-12 text-center text-gray-600 dark:text-gray-400">
-            <p>Posted on March 11, 2025</p>
+            <p>Last edited on March 11, 2025</p>
         </footer>
     </div>
 </div>
