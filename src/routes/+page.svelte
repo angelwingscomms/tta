@@ -2,7 +2,7 @@
     <div class="max-w-3xl mx-auto py-12 px-6">
         <!-- Header -->
         <h1 class="text-4xl font-bold text-center text-indigo-600 dark:text-indigo-400 mb-8">
-            The Preacher Problem: Christians Must Gather and Grapple with Truth
+            Christians should meet to reason
         </h1>
 
         <!-- Intro -->
