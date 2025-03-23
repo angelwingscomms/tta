@@ -19,6 +19,14 @@
           Exploring why Christians should meet house-to-house and discuss scripture together...
         </p>
       </a>
+      <a 
+        href="/church-of-christ-preachers" 
+        class="block p-6 bg-gray-50 dark:bg-gray-800 rounded-lg shadow-sm hover:shadow-md transition-shadow"
+      >
+        <h2 class="text-xl font-semibold text-gray-900 dark:text-gray-100 mb-2">
+          church of Christ preachers
+        </h2>
+      </a>
     </div>
   </div>
 </main>
