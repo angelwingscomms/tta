@@ -34,13 +34,3 @@
       </div>
   </article>
 </div>
-
-<style>
-  :global(a) {
-      @apply text-blue-600 hover:text-blue-800 transition-colors;
-  }
-  
-  :global(p) {
-      @apply mb-4;
-  }
-</style>
