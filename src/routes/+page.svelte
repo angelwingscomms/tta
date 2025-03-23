@@ -1,36 +1,54 @@
-<div class="max-w-3xl mx-auto px-4 py-8 md:py-12">
-  <article class="prose prose-slate lg:prose-lg">
-      <h2 class="text-2xl font-semibold text-gray-800 mb-6">Historical Context</h2>
-      <p class="text-gray-600 leading-relaxed mb-8">
-          The Church of Christ emerged from the American Restoration Movement, aiming to restore New Testament practices. Preachers were seen as pro-claimers of the gospel, not a separate clergy class, aligning with the movement's rejection of denominational hierarchies.
-      </p>
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Truth About Church of Christ Preachers</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50">
+    <div class="max-w-3xl mx-auto px-4 py-8 md:py-12">
+        <h1 class="text-4xl font-bold text-gray-900 mb-8">The Truth About Church of Christ Preachers</h1>
 
-      <h2 class="text-2xl font-semibold text-gray-800 mb-6">Evolution of the Role</h2>
-      <p class="text-gray-600 leading-relaxed mb-8">
-          Initially, preaching was often done by traveling ministers, but over time, congregations began hiring full-time preachers, especially after World War II. This shift faced controversy, with some advocating for mutual ministry by all capable men, reflecting ongoing debates about structure.
-      </p>
+        <section class="mb-10">
+            <h2 class="text-2xl font-semibold text-gray-900 mb-4">How It All Started</h2>
+            <p class="text-gray-700 text-lg leading-relaxed">
+                The Church of Christ came from something called the Restoration Movement in America. They wanted to get back to how things were done in the New Testament. Back then, preachers weren’t some fancy clergy group—they were just regular folks sharing the gospel. It was all about keeping things simple and avoiding big church titles and power structures.
+            </p>
+        </section>
 
-      <div class="bg-gray-50 rounded-lg p-6 mb-8">
-          <p class="text-gray-600 leading-relaxed mb-8">
-              The origin of preachers in the Church of Christ can be traced to the New Testament model of evangelists and ministers, as interpreted by key figures in the Restoration Movement. Leaders such as Alexander Campbell and Barton W. Stone were instrumental in shaping this role. Campbell, for instance, began preaching without a salary in 1810 and was known for his debates and publications, such as the <em>Christian Baptist</em> and <em>Millennial Harbinger</em>, which gave voice to the movement <a href="https://www.britannica.com/biography/Alexander-Campbell-American-clergyman">Alexander Campbell | Founder of Disciples of Christ, Reformer, Educator | Britannica</a>. Stone similarly contributed through his preaching, emphasizing apostolic Christianity.
-          </p>
-          <p class="text-gray-600 leading-relaxed mb-8">
-              The movement rejected formal clergy structures, aligning with the principle of the priesthood of all believers. This is evident in the lack of formal ordination for preachers, with some legally ordained by elders only for state requirements, such as performing marriages <a href="https://discipleshistory.org/wiki/churches-of-christ/">Disciples Historical Society: Churches of Christ</a>. Instead, preachers were seen as members called to proclaim the gospel, based on New Testament roles like those mentioned in Ephesians 4:11 (apostles, prophets, evangelists, pastors, teachers).
-          </p>
-      </div>
+        <section class="mb-10">
+            <h2 class="text-2xl font-semibold text-gray-900 mb-4">How the Job Changed</h2>
+            <p class="text-gray-700 text-lg leading-relaxed">
+                At first, preachers were travelers, moving from place to place. But after World War II, a lot of churches started hiring guys to stick around full-time. Not everyone liked that idea—some folks thought every capable guy in the church should take turns preaching. It’s still a hot topic for some.
+            </p>
+        </section>
 
-      <h3 class="text-xl font-semibold text-gray-800 mb-4">Early Practices and Itinerant Preaching</h3>
-      <div class="bg-gray-50 rounded-lg p-6 mb-8">
-          <p class="text-gray-600 leading-relaxed mb-8">
-              In the early days, preaching was often conducted by itinerant ministers who traveled between congregations. This practice is reflected in the lives of Campbell and Stone, who engaged in extensive preaching tours to spread their message. The <em>Disciples Historical Society</em> notes that there was initial opposition to located preachers—those employed full-time by one congregation—particularly in the 1880s, with figures like Austin McGary and David Lipscomb advocating against this <a href="https://discipleshistory.org/wiki/churches-of-christ/">Disciples Historical Society: Churches of Christ</a>. This resistance stemmed from a desire to maintain mutual ministry, where all capable men in the congregation shared preaching responsibilities, with about 130 congregations emphasizing this approach today.
-          </p>
-      </div>
+        <section class="bg-gray-100 rounded-lg p-6 mb-10 shadow-sm">
+            <h3 class="text-xl font-semibold text-gray-900 mb-3">Where It Came From</h3>
+            <p class="text-gray-700 text-lg leading-relaxed">
+                The preacher gig in the Church of Christ goes back to how they saw things in the New Testament—like evangelists and ministers. Big names like Alexander Campbell and Barton W. Stone helped shape it. Campbell kicked things off in 1810, preaching without pay, and got famous for his debates and writings in stuff like the <em>Christian Baptist</em> and <em>Millennial Harbinger</em>. You can read more about him <a href="https://www.britannica.com/biography/Alexander-Campbell-American-clergyman" class="text-blue-600 hover:underline">here</a>. Stone was all about keeping it real to the early church vibes too.
+            </p>
+            <p class="text-gray-700 text-lg leading-relaxed mt-4">
+                They didn’t want a fancy clergy setup. Everyone was supposed to be equal in sharing the faith—that’s why there’s no big ordination ceremony. Some preachers only get “ordained” by elders to sign marriage papers for the state. It’s all based on roles like evangelists and teachers from Ephesians 4:11 in the Bible. Check out more at the <a href="https://discipleshistory.org/wiki/churches-of-christ/" class="text-blue-600 hover:underline">Disciples Historical Society</a>.
+            </p>
+        </section>
 
-      <h3 class="text-xl font-semibold text-gray-800 mb-4">Evolution and Controversy</h3>
-      <div class="bg-gray-50 rounded-lg p-6 mb-8">
-          <p class="text-gray-600 leading-relaxed mb-8">
-              The role of preachers evolved significantly over time. Not until the early 20th century did some churches appoint ministers to do most of the preaching, and many did not employ preachers until after World War II, according to historical accounts <a href="https://discipleshistory.org/wiki/churches-of-christ/">Disciples Historical Society: Churches of Christ</a>. This shift was controversial, with leaders like Daniel Sommer and Carl Ketcherside asserting that preaching should be a communal activity, reflecting ongoing debates about the structure of ministry.
-          </p>
-      </div>
-  </article>
-</div>
+        <section class="bg-gray-100 rounded-lg p-6 mb-10 shadow-sm">
+            <h3 class="text-xl font-semibold text-gray-900 mb-3">The Early Days and Road Trips</h3>
+            <p class="text-gray-700 text-lg leading-relaxed">
+                Way back, preachers were on the move, hitting up different churches. Campbell and Stone did a ton of these preaching tours. Some folks, like Austin McGary and David Lipscomb, didn’t love the idea of a preacher settling down in one spot full-time—especially around the 1880s. They wanted everyone to pitch in with preaching. Even now, about 130 churches stick to that old-school way, according to the <a href="https://discipleshistory.org/wiki/churches-of-christ/" class="text-blue-600 hover:underline">Disciples Historical Society</a>.
+            </p>
+        </section>
+
+        <section class="bg-gray-100 rounded-lg p-6 mb-10 shadow-sm">
+            <h3 class="text-xl font-semibold text-gray-900 mb-3">Big Changes and Arguments</h3>
+            <p class="text-gray-700 text-lg leading-relaxed">
+                Things really shifted in the 20th century. Some churches didn’t have full-time preachers until after World War II. Before that, it was more of a group effort. Guys like Daniel Sommer and Carl Ketcherside pushed hard for everyone to preach, not just one hired person. It’s still a debate that fires people up, and you can dig into it more at the <a href="https://discipleshistory.org/wiki/churches-of-christ/" class="text-blue-600 hover:underline">Disciples Historical Society</a>.
+            </p>
+        </section>
+    </div>
+</body>
+</html>
+```
