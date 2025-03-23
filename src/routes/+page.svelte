@@ -8,7 +8,7 @@
   <div class="max-w-6xl mx-auto px-4">
     <h1 class="text-3xl font-bold text-gray-900 dark:text-gray-100 mb-8">Blog Posts</h1>
     <div class="space-y-4">
-      <a 
+      <!-- <a 
         href="/christians-meeting-house-to-house" 
         class="block p-6 bg-gray-50 dark:bg-gray-800 rounded-lg shadow-sm hover:shadow-md transition-shadow"
       >
@@ -18,7 +18,7 @@
         <p class="text-gray-600 dark:text-gray-400">
           Exploring why Christians should meet house-to-house and discuss scripture together...
         </p>
-      </a>
+      </a> -->
       <a 
         href="/church-of-christ-preachers" 
         class="block p-6 bg-gray-50 dark:bg-gray-800 rounded-lg shadow-sm hover:shadow-md transition-shadow"
