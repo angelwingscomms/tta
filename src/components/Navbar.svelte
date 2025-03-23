@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
   import { onMount } from 'svelte';
   
   let darkMode = true;
@@ -38,4 +38,5 @@
       </button>
     </div>
   </div>
-</nav>
+</nav> -->
+<slot />
